@@ -5,6 +5,7 @@
     --secondary: #262626;
     --link: #4f3ab6;
     --text-color: #fff;
+    --text-color-disabled: rgb(134, 134, 134);
     --secondary-text-color: #dcdcdc;
   }
 }
@@ -15,6 +16,7 @@
     --secondary: #b8b8b8;
     --link: #4f3ab6;
     --text-color: rgb(0, 0, 0);
+    --text-color-disabled: rgb(54, 54, 54);
     --secondary-text-color: #2b2b2b;
   }
 }
