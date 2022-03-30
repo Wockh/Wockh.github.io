@@ -29,6 +29,14 @@ body {
   }
 }
 
+.pill {
+  background-color: var(--main-color) !important;
+  border-radius: 999px !important;
+}
+
+.disabled {
+  cursor: not-allowed !important;
+}
 
 /* scroll bar */
 
